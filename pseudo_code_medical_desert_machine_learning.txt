@@ -1,0 +1,6 @@
+Extract all acute care hospitals from table
+store their location in a list
+Generate random locations
+Find distances of random locations from closest acute-care hospital
+group random locations into medical deserts or not medical deserts, based on distances
+use new data to train logistic regression model
