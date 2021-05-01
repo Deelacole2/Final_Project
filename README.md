@@ -29,3 +29,6 @@
 Result of analysis
 Recommendation for future analysis
 Anything the team would have done differently
+
+LINK to GOOGLE DOC: 
+https://docs.google.com/document/d/1JQ_D4rWqpEzXDXJcitcBiWboscQrCKmT_lHpX6utAD8/edit
