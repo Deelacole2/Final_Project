@@ -1,12 +1,5 @@
-# Final_Project
+Final Project Presentation 
 
-Selected topic
-Reason the topic was selected
-Description of the source of data
-Questions the team hopes to answer with the data
-Description of the data exploration phase of the project
-Description of the analysis phase of the project
-Technologies, languages, tools, and algorithms used throughout the project
-Result of analysis
-Recommendation for future analysis
-Anything the team would have done differently
+Link to Google Slides deck:
+https://docs.google.com/presentation/d/1CdDLPSW5gvsqWbOWS2cVy2eUCCllHZse3GAuCbQp1ss/edit#slide=id.gda1b5c437d_0_646
+
