@@ -23,9 +23,13 @@
 - Total Population and SVI from census.gov 
 - Mortality and diease rates from CDC.gov
 - State Cost of Living Index from AdvisorSmith
+- US County Sociohealth data from Kaggle.com
 
 **Questions**
 - If the location being searched is in a medical desert? Does being in a medical desert coralate with other health factors, such as mortality rates. 
+
+**Hypothesis** 
+- Living in a medical desert will be correlated with poorer overall health outcomes. 
 
 **Technologies, Languages, Tools, and Algorithms**
 - Postgres
