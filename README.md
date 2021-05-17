@@ -32,3 +32,6 @@
 
 LINK to GOOGLE DOC: 
 https://docs.google.com/document/d/1JQ_D4rWqpEzXDXJcitcBiWboscQrCKmT_lHpX6utAD8/edit
+
+LINK to GOOGLE SLIDES for dashboard storyboard: 
+https://docs.google.com/presentation/d/1wJJQV7OLgBDQ9UN0bTLhiiew2fjcAdyz3YCNcSZuKoI/edit?pli=1#slide=id.gd496310198_0_6
