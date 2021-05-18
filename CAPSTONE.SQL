@@ -1,3 +1,20 @@
+-- Joining the hosp_popup table to state metrics table
+
+SELECT hosp_popup.name, 
+		hosp_popup.city,
+		hosp_popup.state, 
+		hosp_popup.county,
+		hosp_popup.status,
+		hosp_popup.type, 
+		state_metrics.stateabbr, 
+		state_metrics.population_2019, 
+		state_metrics.death_to_pop_ratio, 
+		state_metrics.avg_cost_of_living
+FROM hosp_popup
+RIGHT JOIN state_metrics
+ON hosp_popup.state = state_metrics.stateabbr;
+
+
 CREATE TABLE hospital_popup (
   FID int UNIQUE primary key NOT NULL,
   NAME varchar UNIQUE NOT NULL,
