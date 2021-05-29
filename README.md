@@ -1,4 +1,4 @@
-
+   ![MEDICALDESERTITLE](Resources/medicaldesertviz.png)
 # Final_Project
 
 =======
@@ -34,13 +34,13 @@
 - LinearRegression Model
 
 ## PostgreSQL Database
-
+![postgres](Resources/postgreslogo.png)
 ##### For the database section of our project, we decided to implement an AWS relational database. This method was primarily chosen because of ease of use, each member of our team was able to seamlessly connect to the database and perform queries with ease.
 
 ##### We started with a cloud-based notebook, Google Colaboratory. Within Google Colab we created a connection to our AWS hosted Capstone database. All text files, that were needed, were loaded into our S3 bucket storage system and pulled into our Google Colab notebooks as DataFrames for additional analysis and inspection, before being loaded into our database. The method of insertion into the database was PySpark. PySpark was able to make a connection to both the AWS S3 buckets and the AWS hosted PostgreSQL database.
 
 ###### Our database was used a host of the data that would be used in the machine learning model as well and multiple datasets that we would use to create visualizations for this project. We were able to connect the db using SqlAlchemy, specifically Psychopg2 and RealDictCursor.
-
+![tables](Resources/tableviz.png)
 ##### There were a couple challenges, initially wanted to import the data directly into pgAdmin but could not find the area where it was having the conflict. I pivoted to google co-lab for our method of insertion. 
 
 
