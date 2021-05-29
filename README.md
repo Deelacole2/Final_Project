@@ -33,10 +33,16 @@
 - Tableau
 - LinearRegression Model
 
-## Postgres Database
+## PostgreSQL Database
 
-##### For the database portion of our project we used AWS RDS and Postgres SQL. PySpark was used load the data into the database. Our database will be used to hold the tables from our Exploratory phases as well as host the data that we will use in our Machine Learning model. Our database will not be connected to our final project, but it will serve as a location to create new datasets for analysis for use in Tableau.
-##### We chose this database type for ease of use, all team members were able to connect and query the database effortlessly.
+##### For the database section of our project, we decided to implement an AWS relational database. This method was primarily chosen because of ease of use, each member of our team was able to seamlessly connect to the database and perform queries with ease.
+
+##### We started with a cloud-based notebook, Google Colaboratory. Within Google Colab we created a connection to our AWS hosted Capstone database. All text files, that were needed, were loaded into our S3 bucket storage system and pulled into our Google Colab notebooks as DataFrames for additional analysis and inspection, before being loaded into our database. The method of insertion into the database was PySpark. PySpark was able to make a connection to both the AWS S3 buckets and the AWS hosted PostgreSQL database.
+
+###### Our database was used a host of the data that would be used in the machine learning model as well and multiple datasets that we would use to create visualizations for this project. We were able to connect the db using SqlAlchemy, specifically Psychopg2 and RealDictCursor.
+
+##### There were a couple challenges, initially wanted to import the data directly into pgAdmin but could not find the area where it was having the conflict. I pivoted to google co-lab for our method of insertion. 
+
 
 ## Machine Learning Model
 
