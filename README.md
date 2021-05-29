@@ -6,9 +6,10 @@
 *Team Members:* D'Ana Rogers, Lisa Binegar, Kola Oyedele, and Allison Bartlett
 
 **Topic**
-- Medical deserts in the United States and to show the impact of medical deserts in rural areas. 
+- Medical deserts, also referred to as hospital deserts, in the United States and the impact the lack of access to care has on various health statistics. 
 
 **Reason**
+- We all had an interest in a project topic that fell under the domain of “healthcare.” In our initial discussions, we gravitated towards topics on access to care. A major barrier to equitable and high quality care is if there are simply no providers, hospitals, or options where you live. We discussed the concept of medical deserts and though there is increasing concern about the subject, did not find a robust dashboard illustrating the issues and thought it would be interesting to explore further. 
 - As many hospital and care facilities close in the United States, this leaves communities vulnerable without immediate healthcare options. We want to show if a community is located in a medical desert, and if so, how does this correlate with things like mortality rate, heart attack deaths, and infant mortality in those areas. Based on hospital closures, we also want to predict areas that may be in danger of being in a medical desert in the future. 
 
 **Data**
@@ -19,7 +20,7 @@
 - US County Sociohealth data from Kaggle.com
 
 **Questions**
-- If the location being searched is in a medical desert? Does being in a medical desert coralate with other health factors, such as mortality rates. 
+- Our initial question was whether one could easily determine if they lived in a medidal desert. Secondly, does living in a medical desert correlate with a higher or increased number of physically unhealthy days? 
 
 **Hypothesis** 
 - Living in a medical desert will be correlated with poorer overall health outcomes. 
