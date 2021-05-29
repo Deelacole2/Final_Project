@@ -54,7 +54,8 @@
 * The use of folium maps was discontinued in favor of Tableau Public for the Dashboard. Here's the link for the dashboard:
 https://public.tableau.com/views/YellowTeamCapstone/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
+LINK to the final Google Slides Presentation: 
+https://docs.google.com/presentation/d/1CdDLPSW5gvsqWbOWS2cVy2eUCCllHZse3GAuCbQp1ss/edit?usp=sharing 
 
-
-LINK to GOOGLE DOC: 
-https://docs.google.com/document/d/1JQ_D4rWqpEzXDXJcitcBiWboscQrCKmT_lHpX6utAD8/edit
+LINK to the Medical Desert Dashboard, hosted by Tableau: 
+https://public.tableau.com/views/YellowTeamCapstone/Presentation?:language=en-US&:display_count=n&:origin=viz_share_link
